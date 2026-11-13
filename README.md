@@ -81,13 +81,13 @@ You get a short chat answer. Ask for the one-page report if you want it saved.
 
 ## Related skills
 
-Other skills help with parts of the job search, mostly resume tailoring, ATS-style matching, cover letters and interview prep. This one is built for the step before: deciding whether to apply, and checking the company and poster first. They can be used together.
+Other skills help with parts of the job search, mostly resume tailoring, ATS-style matching, cover letters and interview prep. This one is built for the step before: deciding whether to apply, and checking the company and poster first. 
 
 Examples found through public search. They are not affiliated with this project, and I have not reviewed or tested them, so check each before use:
 - [Resume Tailoring Skill](https://github.com/varunr89/resume-tailoring-skill): tailors a resume to a job description, with company and role research.
 - [Resumeskills](https://github.com/paramchoudhary/resumeskills): a set of resume skills, including a job description analyzer with match scores and gaps.
-- [Job Seeker Claude Skills](https://blog.asadfaizee.is-a.dev/posts/claude-skills-for-job-seekers/): resume, cover letter, interview prep and tracking.
-- [Claude Code Playbooks guide for job seekers](https://www.claudecodehq.com/blog/claude-skills-job-seekers): six skills covering the search from resume to interview.
+- [Proficiently Claude Skills](https://github.com/proficientlyjobs/proficiently-claude-skills): a collection of Claude skills for the job search, including a job search skill.
+
 
 ## Files
 
