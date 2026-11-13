@@ -65,7 +65,7 @@ Read the JD the way a screener would, using only what the posting states. Compan
 - **Likely interview probes**: the two or three questions a hiring manager would reasonably ask about the biggest gaps, with the honest evidence the seeker can bring.
 - **Constraint check**: does the role respect the seeker's hard filters and career direction?
 
-State a weak screening read plainly, once. It means a risk, not that the seeker is unfit. Where the risk is high, say so and suggest a direct route (a DM to the poster, a referral) as an option.
+State a weak screening read plainly, once, and base it only on what the JD says (for example "the JD asks for 8+ years; the resume shows about 1.5"). Do not describe what a screener, recruiter or tool "would likely do". It means a risk, not that the seeker is unfit. Where the risk is high, say so and suggest a direct route (a DM to the poster, a referral) as an option.
 
 ## 6. Score and verdict
 
@@ -86,16 +86,16 @@ Default to a short chat answer. Keep it scannable, lead with the verdict, and av
 
 1. Verdict and the one-line reason
 2. Scores (a compact table with 1-5 and confidence)
-3. Company and legitimacy: the few facts that matter, with sources, plus a one-line freshness read (Current / Unclear / Likely stale)
+3. Company and legitimacy: the few facts that matter, with sources, plus a labelled freshness line that always uses one of **Current**, **Unclear** or **Likely stale** and says why (a "reposted" or "renewed" tag can mean the role has been open for a while, so do not treat it as proof of freshness)
 4. Fit with your resume: must-have coverage, stated knock-out risks, wording gaps, likely interview probes
 5. Red flags and unknowns, including what cannot be known about the company's screening
 6. Questions to ask the recruiter or hiring manager. Include "what are the must-haves, the interview stages, and is automated screening used?" only when the JD does not answer them. When freshness is unclear or likely stale, include "is this role still open, when was it opened, and where is the process now?"
-7. "Verify it yourself": 3 to 5 sources from `references/sources.md` most relevant to this opportunity, with links, so the seeker can cross-check key claims (company registry, careers page, poster's profile, a review site)
+7. "Verify it yourself" (use this exact heading): 3 to 6 sources from `references/sources.md` most relevant to this opportunity, with links, so the seeker can cross-check key claims (company registry, careers page, poster's profile, a review site). Every number you cite from the web (funding, valuation, headcount, layoffs, ratings) must be traceable here or cited inline, and a figure with no link should be dropped or marked unverified.
 8. Outreach draft (see below)
 
-State each fact once. Do not repeat the score table in prose, restate the verdict, or add encouragement. See `references/worked-example.md` and `references/worked-example-analytics.md` for the target format and tone, including how to handle an unnamed employer.
+State each fact once. That includes company-type context (say once that a company is late-stage or established, not in an opening line and again under a heading). Do not repeat the score table in prose, restate the verdict, or add encouragement. When the verdict is **Skip**, omit the outreach draft and the recruiter questions, say so in one line, and keep the rest. See `references/worked-example.md` and `references/worked-example-analytics.md` for the target format and tone, including how to handle an unnamed employer.
 
-End by offering a one-page fit report. Produce the report only when the seeker asks, using whatever document tool or skill is available (a Word or PDF file, or a doc), in the same order, kept to one page.
+End with one line offering a one-page fit report, and do not close with a different question or a menu of next steps. Produce the report only when the seeker asks, using whatever document tool or skill is available (a Word or PDF file, or a doc), in the same order, kept to one page.
 
 ## 8. Outreach drafts
 
