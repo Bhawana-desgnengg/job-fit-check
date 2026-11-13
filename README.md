@@ -105,7 +105,7 @@ Your resume and constraints are used only for the check. The skill does not repe
 ## Feedback
 
 I would value your feedback: what worked, what was wrong, and what was missing. Two ways to share it:
-- **Feedback form:** [form link]
+- **Feedback form:** https://forms.gle/xUXaGwNz1mTVYXqr5
 - **GitHub:** open an issue using the "Feedback" template.
 
 Please leave out your resume and personal details. Describe what the skill said and what you expected. Feedback is used to improve the skill, and I log the changes I make in response. I will only quote you if you tick the consent box on the form.
